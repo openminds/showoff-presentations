@@ -1,3 +1,8 @@
+= Openminds Showoff presentations
+
+* 10 tips for a faster website
+
+
 = ShowOff Presentation Software
 
 ShowOff is a Sinatra web app that reads simple configuration files for a
