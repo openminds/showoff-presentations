@@ -1,0 +1,8 @@
+{
+  "name": "A short intro into ElasticSearch",
+  "sections": [
+    {"section":"intro"},
+    {"section":"demo"},
+    {"section":"conclusion"}
+  ]
+}
